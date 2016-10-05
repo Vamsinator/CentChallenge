@@ -1,0 +1,38 @@
+6.0 Qualification
+Registered entrants must qualify for the SRC by demonstrating a simple technological advancement prior to
+the Competition. Teams will be scored on their demonstration performance. Up to twenty (20) teams will
+advance to the next level of competition.
+Each team will be required to complete two qualification tasks. The qualification tasks will be run independently
+at each team's site. Each team must submit two simulation log files, one for each qualification task. The log
+files will be evaluated by SRC officials. Instructions on how to complete the qualification tasks, and generate
+and submit log files will be provided to registrants upon release of the qualifying simulation software (details on
+challenge website). Teams may make any number of attempts at completing the qualification tasks, and submit
+only their best results – one file for each of two tasks.
+6.1 Qualification Tasks
+6.1.1 Task 1
+The first task will require teams to find a series of lights on a panel. R5 will start standing in front of a textured
+panel that contains a number of colored lights. One at a time, the lights will turn on in a random pattern. Each
+light will remain on for fixed period of time, between 5 and 20 seconds. The light pattern starts once simulation
+is run, and will continue until simulation is complete.
+Successful completion of Qualification Task 1 will entail:
+1. Correctly identify ten lights in a row.
+2. Light identification consists of an RGB value and position in R5’s head frame.
+a. Both the RGB and position values are allowed an error tolerance that is TBD.
+6.1.2 Task 2
+The second task requires teams to press a button that opens a door, and then walk through the doorway. The
+button will be located on a wall and will be brightly colored and textured. R5 will start in front of the wall. The
+doorway will be located next to the button, and will open when the button is pushed.
+Successful completion of the Qualification Task 2 will entail:
+1. Pushing the button.
+2. Walking through the doorway, where R5 must walk one (1) meter beyond the door without falling.
+6.2 Qualification Scoring
+Qualification score for Task 1 will be determined by comparing actual color/position and team’s reported
+color/position and time to complete the Task 1. Qualification score for Task 2 will be determined by the time it
+takes to complete Task 2. In Task 1, teams with smaller error will receive a higher score than teams with 
+Rules doc revised 9/1/16 www.spaceroboticschallenge.com 7
+larger error. In Task 2, teams completing the task using less time will receive a higher score than teams using
+more time.
+Twenty (20) teams will be selected to advance to the Space Robotics Challenge final competition. If more than
+twenty teams successfully complete both qualifying tasks, the teams that completed qualifying Task 2 in the
+fastest time will be selected. In the event of a tie, the amount of error in qualifying Task 1 will be the deciding
+factor.
