@@ -1,7 +1,5 @@
-This is a repository for the NASA Centennial Challenge by Saurobh Sogi and Vamsi Ghorakavi
-D
-B
-A
+This is a repository for the NASA Centennial Challenge by Saurabh Sogi and Vamsi Ghorakavi
 
-C
+https://www.nasa.gov/directorates/spacetech/centennial_challenges/space_robotics/index.html
+
 # CentChallenge
